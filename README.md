@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dhamija(Abhimanyu Dhamija)
+- 👋 Hi, I’m Abhi(Abhimanyu Dhamija)
 - 👀 I’m a tech entrepreneur who started as a data scientist
 - 🌱 I’m currently learning about software security solutions and how data science can enhance them
 - 💞️ I’m looking to collaborate on solutions around software supply chain security especially CI/CD security
